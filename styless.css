@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    color: burlywood;
+    background-color: black;
+    font-size: 50px;
+    padding: 2%;
+    margin: 1%;
+}
+
+.a,
+a {
+    text-align: center;
+    text-decoration: none;
+    text-overflow: clip;
+    font-display: block;
+    font-size: 1.1em;
+    color: aliceblue;
+    background-color: black;
+    padding: 2%;
+    margin: 1%;
+}
+
+body { background-image: ;
+    
+   }
